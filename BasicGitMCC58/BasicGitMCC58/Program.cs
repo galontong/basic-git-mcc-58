@@ -47,7 +47,7 @@ namespace BasicGitMCC58
 
         public void Giri()
         {
-            Console.WriteLine("Wahyu Giri P G");
+            Console.WriteLine("Wahyu Giri Pambudi Giarto");
         }
 
         public void Hamid()
