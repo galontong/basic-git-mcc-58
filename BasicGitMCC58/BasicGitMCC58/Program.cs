@@ -7,6 +7,7 @@ namespace BasicGitMCC58
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("coba push");
         }
     }
 }
