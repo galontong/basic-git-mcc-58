@@ -43,7 +43,7 @@ namespace BasicGitMCC58
 
         public void Dio()
         {
-
+            Console.WriteLine("Hello, ini merupkan test github dio!");
         }
 
         public void Giri()
