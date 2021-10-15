@@ -63,7 +63,7 @@ namespace BasicGitMCC58
 
         public void Lisza()
         {
-
+            Console.WriteLine("Halooo ini Liszaaa");
         }
 
         public void Maulana()
