@@ -57,7 +57,7 @@ namespace BasicGitMCC58
 
         public void Hamid()
         {
-
+            Console.WriteLine("Ini Hamid");
         }
 
         public void Leny()
