@@ -72,7 +72,7 @@ namespace BasicGitMCC58
 
         public void Maulana()
         {
-
+            Console.WriteLine("Hello");
         }
 
         public void Sharon()
