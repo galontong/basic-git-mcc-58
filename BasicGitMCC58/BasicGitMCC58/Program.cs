@@ -73,7 +73,7 @@ namespace BasicGitMCC58
 
         public void Sharon()
         {
-
+            Console.WriteLine("Branch Sharon");
         }
 
         public void Syauqi()
