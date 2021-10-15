@@ -23,7 +23,11 @@ namespace BasicGitMCC58
         
         public void Afif()
         {
-
+            Console.WriteLine("====================");
+            Console.WriteLine(" Hello Teman-Teman !");
+            Console.WriteLine(" Dari Afif Junihar ");
+            Console.WriteLine(" Have a Nice Day   !");
+            Console.WriteLine("====================");
         }
 
         public void Buala()
