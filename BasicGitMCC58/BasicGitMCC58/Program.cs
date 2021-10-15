@@ -42,7 +42,7 @@ namespace BasicGitMCC58
 
         public void Cindy()
         {
-            Console.WriteLine("Test github - Cindy");
+
         }
 
         public void Dio()
