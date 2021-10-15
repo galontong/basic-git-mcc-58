@@ -78,7 +78,7 @@ namespace BasicGitMCC58
 
         public void Syauqi()
         {
-
+			      Console.WriteLine("Brach Syauqi");
         }
     }
 }
