@@ -8,7 +8,6 @@ namespace BasicGitMCC58
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Dari Herul Syahwandi");
-            Console.WriteLine("Afif : Coba GitHub");    
         }
 
         public void Abay()
