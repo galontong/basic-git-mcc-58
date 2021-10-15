@@ -13,7 +13,7 @@ namespace BasicGitMCC58
 
         public void Abay()
         {
-
+            Console.WriteLine("ini kerjaan abay");
         }
 
         public void Adzie()
